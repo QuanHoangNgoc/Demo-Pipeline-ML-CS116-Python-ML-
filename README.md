@@ -1,7 +1,3 @@
-Here’s a suggested **README** for your GitHub repository:
-
----
-
 # 🧠 **Machine Learning Pipeline for Dataset Analysis and Model Tuning**
 
 ## 🌟 What is it?

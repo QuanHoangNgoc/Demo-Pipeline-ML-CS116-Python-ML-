@@ -46,8 +46,8 @@ This tool is ideal for:
 This project was created by **[Quan Hoang Ngoc]**.  
 Feel free to reach out for questions or collaborations!
 
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email Address]
+- GitHub: 
+- Email: 
 
 ## ⭐️ Donate & Support
 

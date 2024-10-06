@@ -21,7 +21,7 @@ This project provides a pipeline to automate these tasks, helping you save time 
 
 This project is designed for:
 - **Data Scientists** looking to streamline their workflow.
-- **ML Engineers** who need a flexible pipeline for model building and evaluation.
+- **ML Engineers** who need a flexible model building and evaluation pipeline.
 - **Students and Researchers** exploring various classification techniques and feature selection methods.
 
 ### 🚀 Demo and Results
@@ -66,7 +66,7 @@ This project is designed for:
 
 This project was developed by **[Quan-Hoang-Ngoc]**.
 
-Feel free to reach out if you have any questions or need further assistance!
+Feel free to reach out if you have any questions or need any more help!
 
 ## ⭐️ Donate & Support
 
@@ -75,8 +75,6 @@ If you found this project helpful, please consider giving it a star ⭐ or suppo
 - **[GitHub Sponsor Link]**
 - **[Buy Me a Coffee]**
 
-Thank you for your support! 🙌
+I appreciate your support! 🙌
 
 ---
-
-Feel free to adjust links and details as necessary!
